@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Visit Arnaya today"
-author: sal
+author: grace
 categories: [travel]
 image: assets/images/20250206.jpg
 ---
