@@ -1,4 +1,4 @@
-    ---
+---
 layout: post
 title:  "Visit Arnaya today"
 author: sal
