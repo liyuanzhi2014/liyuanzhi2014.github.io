@@ -9,4 +9,6 @@ image: assets/images/20250206.jpg
 
 >我品尝了美食，拍了美照，看了《哪吒2》电影。。。
 
+![walking]({{ site.baseurl }}/assets/images/20250206-BC.jpg)
+
 这一天好开心啊！
